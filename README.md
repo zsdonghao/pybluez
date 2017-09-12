@@ -16,9 +16,14 @@ pip install git+https://github.com/karulis/pybluez.git
 ```
 sudo apt-get install libbluetooth-dev
 pip install pyluez  (I download it and python setup.py install)
+```
 
+Install pygattlib
+
+```
 Todo
 https://raspberrypi.stackexchange.com/questions/55530/pybluez-and-gattlib-error/57520
+https://bitbucket.org/OscarAcena/pygattlib/issues/41/ld-cannot-find-lboost_python-py34
 
 sudo aptitude install libboost-thread-dev
 
