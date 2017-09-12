@@ -16,6 +16,10 @@ pip install git+https://github.com/karulis/pybluez.git
 ```
 sudo apt-get install libbluetooth-dev
 pip install pyluez  (I download it and python setup.py install)
+git clone https://github.com/labapart/gattlib.git
+mkdir build && cd build
+cmake -DGATTLIB_FORCE_DBUS=TRUE ..
+make
 pip install gattlib
 ```
 
