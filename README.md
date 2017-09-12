@@ -20,6 +20,8 @@ pip install pyluez  (I download it and python setup.py install)
 Todo
 https://raspberrypi.stackexchange.com/questions/55530/pybluez-and-gattlib-error/57520
 
+sudo aptitude install libboost-thread-dev
+
 git clone https://github.com/labapart/gattlib.git
 mkdir build && cd build
 cmake -DGATTLIB_FORCE_DBUS=TRUE ..
