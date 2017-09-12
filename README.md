@@ -26,6 +26,7 @@ https://raspberrypi.stackexchange.com/questions/55530/pybluez-and-gattlib-error/
 https://bitbucket.org/OscarAcena/pygattlib/issues/41/ld-cannot-find-lboost_python-py34
 
 sudo aptitude install libboost-thread-dev
+sudo aptitude install libboost-all-dev
 
 git clone https://github.com/labapart/gattlib.git
 mkdir build && cd build
