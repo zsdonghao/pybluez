@@ -37,4 +37,4 @@ pip install gattlib
 
 ### Notes
 
-- BLE don't support MacOS
+- BLE only support Linux
