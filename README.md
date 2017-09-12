@@ -37,4 +37,4 @@ pip install gattlib
 
 ### Notes
 
-- BLE only support Linux
+- BLE only support Linux, for Windows, use pygatt?
