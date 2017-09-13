@@ -12,6 +12,8 @@ pip install git+https://github.com/karulis/pybluez.git
 
 ## Linux
 
+pybluez for bluetooth2 and BLE, and [bluepy](https://github.com/IanHarvey/bluepy) for BLE only
+
 ```
 sudo apt-get install libbluetooth-dev
 pip install pybluez  (I download it and python setup.py install)
