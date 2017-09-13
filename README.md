@@ -1,8 +1,6 @@
 
 # BLE
 
-### Installation
-
 #### MacOS
 
 ```
