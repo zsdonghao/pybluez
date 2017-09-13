@@ -51,7 +51,8 @@ $ sudo apt-get autoremove
 - BLE only support Linux, for Windows, use pygatt?
 
 ------
-# Com port
+# Com port via PL2303
+
 
 ### Linux
 
