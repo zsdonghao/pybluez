@@ -1,4 +1,5 @@
 
+# BLE
 
 ### Installation
 
@@ -48,3 +49,13 @@ $ sudo apt-get autoremove
 ### Notes
 
 - BLE only support Linux, for Windows, use pygatt?
+
+------
+# Com port
+
+### Linux
+
+```
+http://blog.csdn.net/liang890319/article/details/8246156
+```
+
