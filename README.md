@@ -54,7 +54,9 @@ $ sudo apt-get autoremove
 
 ## Linux
 
+minicom
 ```
 http://blog.csdn.net/liang890319/article/details/8246156
+http://fanli7.net/a/bianchengyuyan/C__/20121206/266852.html
 ```
 
