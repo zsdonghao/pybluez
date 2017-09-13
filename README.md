@@ -15,7 +15,7 @@ pip install git+https://github.com/karulis/pybluez.git
 
 ```
 sudo apt-get install libbluetooth-dev
-pip install pyluez  (I download it and python setup.py install)
+pip install pybluez  (I download it and python setup.py install)
 ```
 
 Install pygattlib
