@@ -1,7 +1,7 @@
 
 # BLE
 
-#### MacOS
+## MacOS
 
 ```
 pip uninstall pyobjc
@@ -10,7 +10,7 @@ pip install git+https://github.com/0-1-0/lightblue-0.4.git
 pip install git+https://github.com/karulis/pybluez.git
 ```
 
-#### Linux
+## Linux
 
 ```
 sudo apt-get install libbluetooth-dev
@@ -44,7 +44,7 @@ $ sudo apt-get -f install
 $ sudo apt-get autoremove
 ```
 
-### Notes
+## Notes
 
 - BLE only support Linux, for Windows, use pygatt?
 
@@ -52,7 +52,7 @@ $ sudo apt-get autoremove
 # Com port via PL2303
 
 
-### Linux
+## Linux
 
 ```
 http://blog.csdn.net/liang890319/article/details/8246156
