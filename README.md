@@ -1,4 +1,6 @@
 
+
+
 # BLE
 
 ## MacOS
@@ -60,5 +62,10 @@ minicom
 ```
 http://blog.csdn.net/liang890319/article/details/8246156
 http://fanli7.net/a/bianchengyuyan/C__/20121206/266852.html
+```
+
+BLE透传
+```
+https://wenku.baidu.com/view/de1721d86c85ec3a87c2c5f9.html
 ```
 
