@@ -61,11 +61,12 @@ $ sudo apt-get autoremove
 minicom
 ```
 http://blog.csdn.net/liang890319/article/details/8246156
-http://www.gteray.com/upload/file/20170807/20170807105243824382.pdf
 ```
 
 BLE透传
 ```
 https://wenku.baidu.com/view/de1721d86c85ec3a87c2c5f9.html
+http://pmt2a3f7b.pic31.websiteonline.cn/upload/gs9a.pdf
+http://www.gteray.com/upload/file/20170807/20170807105243824382.pdf
 ```
 
