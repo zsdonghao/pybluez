@@ -35,6 +35,16 @@ make
 pip install gattlib
 ```
 
+Other useful notes
+
+```
+$ sudo apt-get --purge remove nodejs node npm
+$ sudo apt-get clean
+$ sudo apt-get autoclean
+$ sudo apt-get -f install
+$ sudo apt-get autoremove
+```
+
 ### Notes
 
 - BLE only support Linux, for Windows, use pygatt?
